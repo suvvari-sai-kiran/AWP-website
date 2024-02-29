@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Greetings</title>
+</head>
+<body>
+<script>
+firstName=prompt("S.Sai Kiran","");
+document.write("Hello "+firstName+",welcome to my web page.");
+</script>
+<p>this is my web page...&#128523;&#128516;</p>
+</body>
+</html> 
