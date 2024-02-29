@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>News and Trends</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+}
+
+header {
+background-color: #e80e0e;
+color: #fff;
+padding: 10px 0;
+text-align: center;
+}
+
+nav {
+background-color: #555;
+color: #fff;
+padding: 10px 0;
+}
+
+nav a {
+color: #fff;
+text-decoration: none;
+padding: 5px 10px;
+}
+
+nav a:hover {
+background-color: #777;
+}
+
+main {
+padding: 20px;
+}
+
+.article {
+border: 1px solid #ccc;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+.article h2 {
+margin-top: 0;
+}
+
+footer {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px 0;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>News and Trends</h1>
+</header>
+<nav>
+<a href="#home">Home</a>
+<a href="#news">News</a>
+<a href="#trends">Trends</a>
+</nav>
+<main>
+<h2 id="home">Welcome to News and Trends</h2>
+<p>Stay updated with the latest news and trends in technology, business, and entertainment.</p>
+<h2 id="news">Latest News</h2>
+<div class="article">
+<h3>Article 1</h3>
+<p>This is the summary of article 1. Click on the title to read the full article.</p>
+</div>
+<div class="article">
+<h3>Article 2</h3>
+<p>This is the summary of article 2. Click on the title to read the full article.</p>
+</div>
+<h2 id="trends">Top Trends</h2>
+<p>Here are the top trends in technology, business, and entertainment:</p>
+<ul>
+<li>Trend 1</li>
+<li>Trend 2</li>
+<li>Trend 3</li>
+</ul>
+</main>
+<footer>
+&copy; 2023 News and Trends
+</footer>
+</body>
+</html>
